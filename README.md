@@ -1,4 +1,9 @@
 # ansible
 ansible repository
 
-- abc
+- minor
+! 1
+@ 2
+# 3
+$ 4
+. point 
