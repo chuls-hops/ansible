@@ -1,10 +1,5 @@
 # ansible
-ansible repository
+## ansible 사용을 위한 Yaml 코드 및 사용법 정리 레파지토리 
 
-- minor
-! 1
-@ 2
-# 3
-$ 4
-. point 
-![image](https://user-images.githubusercontent.com/98098974/161463809-c9e341a8-bf27-4e61-8200-495438f8b51a.png)
+### 1. 사용법 
+- 컨트롤 노드, 매니지드 노드 각각 설정 방법
